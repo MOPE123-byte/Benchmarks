@@ -1,5 +1,5 @@
 # Name: Mohmmad Parvez
-# Collaborators: Looking up how to define a function, and except statement
+# Collaborators:
 # Notes: 
 
 from sympy import isprime
