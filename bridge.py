@@ -1,12 +1,12 @@
 # Name: Mohmmad Parvez
-# Collaborators: https://www.w3schools.com/python/python_lists.asp
+# 
 # Notes: Attempted challenge problem
 
 def evaluate_bridge_hand(hand):
     # Define the values of the cards
     card_values = {'A': 4, 'K': 3, 'Q': 2, 'J': 1, 'T': 0}
 
-    # Initialize variables to count HCP and the shape of the hand
+    # Set variables to count HCP and the shape of the hand
     hcp = 0
     shape = [0, 0, 0, 0]  # Four suits: Spades, Hearts, Diamonds, Clubs
 
